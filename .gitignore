@@ -12,7 +12,7 @@
 /vendor/
 
 # Addons
-/redaxo/src/addons/*
+# /redaxo/src/addons/*
 !/redaxo/src/addons/backup/
 !/redaxo/src/addons/be_style/
 !/redaxo/src/addons/cronjob/

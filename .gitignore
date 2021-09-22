@@ -12,7 +12,7 @@
 /vendor/
 
 # Addons
-/redaxo/src/addons/*
+# /redaxo/src/addons/*
 !/redaxo/src/addons/backup/
 !/redaxo/src/addons/be_style/
 !/redaxo/src/addons/cronjob/
@@ -29,7 +29,6 @@
 # PhpStorm setting
 /.idea/*
 !/.idea/encodings.xml
-!/.idea/icon.svg
 !/.idea/jsonSchemas.xml
 !/.idea/modules.xml
 !/.idea/php.xml
@@ -43,9 +42,28 @@
 !/.idea/runConfigurations/phpunit.xml
 !/.idea/scopes/
 
+/redaxo/data/core/config.yml
+
+# installer configuration
+/redaxo/data/addons/install/config.json
+
+# cache folder (except hidden files)
+/redaxo/cache/*
+!/redaxo/cache/.*
+
+# media folder (except hidden files)
+/media/*
+!/media/.*
+
+# log folder and log files
+/redaxo/data/log/*
+*.log
+
 # VSCode setting
 .vscode
 
 # Docker
 /.docker
 /docker-compose.*.yml
+
+/resources

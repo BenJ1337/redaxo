@@ -1,0 +1,3 @@
+[submodule "redaxo/src/addons/redaxo_url_rewrite"]
+	path = redaxo/src/addons/redaxo_url_rewrite
+	url = https://github.com/BenJ1337/redaxo_url_rewrite.git

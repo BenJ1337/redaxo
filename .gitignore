@@ -65,3 +65,5 @@
 # Docker
 /.docker
 /docker-compose.*.yml
+
+/resources

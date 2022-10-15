@@ -1,22 +1,6 @@
 Changelog
 =========
 
-Version 2.11.2 – 03.05.2022
----------------------------
-
-### Bugfixes
-
-* Error-Mails hatten als Absender die Error-Mailadresse, statt der in PHPMailer hinterlegten Absenderadresse, und konnten deshalb teils nicht verschickt werden (@skerbis)
-
-
-Version 2.11.1 – 29.11.2021
----------------------------
-
-### Bugfixes
-
-* PHP 8.1: Deprecated-Meldung im Log entfernt (@gharlan)
-
-
 Version 2.11.0 – 17.11.2021
 ---------------------------
 

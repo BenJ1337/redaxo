@@ -1,0 +1,6 @@
+[submodule "redaxo/src/addons/redaxo_url_rewrite"]
+	path = redaxo/src/addons/redaxo_url_rewrite
+	url = git@github.com:BenJ1337/redaxo_url_rewrite.git
+[submodule "redaxo/src/addons/angelshop"]
+	path = redaxo/src/addons/angelshop
+	url = git@github.com:BenJ1337/angelshop.git

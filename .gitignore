@@ -1,5 +1,6 @@
 .php-cs-fixer.cache
-/.htaccess
+# benj1337: added 2023-12-27
+!/.htaccess
 /composer.lock
 /.phpunit.cache/
 /assets/
@@ -25,6 +26,8 @@
 !/redaxo/src/addons/project/
 !/redaxo/src/addons/structure/
 !/redaxo/src/addons/users/
+# benj1337: added 2023-12-27
+!/redaxo/src/addons/redaxo_url_rewrite/
 
 # PhpStorm setting
 /.idea/*

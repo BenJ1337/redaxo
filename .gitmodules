@@ -4,3 +4,6 @@
 [submodule "redaxo/src/addons/angelshop"]
 	path = redaxo/src/addons/angelshop
 	url = git@github.com:BenJ1337/angelshop.git
+[submodule "redaxo/src/addons/redaxo_custom_components"]
+	path = redaxo/src/addons/redaxo_custom_components
+	url = git@github.com:BenJ1337/redaxo_custom_components.git

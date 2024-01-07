@@ -28,6 +28,8 @@
 !/redaxo/src/addons/users/
 # benj1337: added 2023-12-27
 !/redaxo/src/addons/redaxo_url_rewrite/
+# benj1337: added 2023-01-07
+!/redaxo/src/addons/redaxo_custom_components/
 
 # PhpStorm setting
 /.idea/*

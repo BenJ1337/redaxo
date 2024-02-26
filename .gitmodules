@@ -7,9 +7,9 @@
 [submodule "redaxo/src/addons/redaxo_bootstrap"]
 	path = redaxo/src/addons/redaxo_bootstrap
 	url = git@github.com:BenJ1337/redaxo_bootstrap.git
-[submodule "redaxo/src/addons/redaxo_eingabekomponenten"]
-	path = redaxo/src/addons/redaxo_eingabekomponenten
-	url = git@github.com:BenJ1337/redaxo_eingabekomponenten.git
 [submodule "redaxo/src/addons/redaxo_module_template_synch"]
 	path = redaxo/src/addons/redaxo_module_template_synch
 	url = git@github.com:BenJ1337/redaxo_module_template_synch.git
+[submodule "redaxo/src/addons/redaxo_input_components"]
+	path = redaxo/src/addons/redaxo_input_components
+	url = git@github.com:BenJ1337/redaxo_input_components.git
